@@ -1,2 +1,7 @@
 <xml>
-	
+	<About_me>
+		<name>Paul Averkin</name>
+		<age>47</age>
+		<amount_of_pets>0</amount_of_pets>
+		<expected_salary>5000</expected_salary>
+	</About_me>
