@@ -1,1 +1,7 @@
-
+<?Bug report by Paul Averkin?>
+    <bug>
+        <bug_number>1</bug_number>
+        <project_name>Mobile app "XXX"</project_name>
+        <author>Paul</author>
+        <description>Unable to login</description>
+    </bug>
